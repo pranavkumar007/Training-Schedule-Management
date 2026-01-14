@@ -4,7 +4,7 @@
 
 ## Requirements
 
-Check project requirements from here : **[CLICK HERE](https://github.com/kishanrajput23/Training-Schedule-Management/blob/main/Project_Flies/docs/requirements_doc.md)** 👈
+Check project requirements from here : 
 
 ## Navigation Plan & File Structure
 
@@ -43,9 +43,6 @@ mkdir build && cd build && cmake .. && make
 ```
 ----
 
-### Lengthy Instructions
-For setting up and running this project in your system please checkout this brief **[Documentation](https://github.com/kishanrajput23/Training-Schedule-Management/blob/main/project_guide.md)** for your reference and hands-on explanation.
-
 
 
 ## Contributing
@@ -55,12 +52,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 👤 **Pranavkumar Ghadge**
 
-- Connect With Me [Here](https://linktr.ee/kishan_rajput23) 👈
 
 ## Show Your Support
 
 Please ⭐️ this repository if this project helped you!
 
-## License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
