@@ -53,7 +53,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Author
 
-👤 **Kishan Kumar Rai**
+👤 **Pranavkumar Ghadge**
 
 - Connect With Me [Here](https://linktr.ee/kishan_rajput23) 👈
 
@@ -63,3 +63,4 @@ Please ⭐️ this repository if this project helped you!
 
 ## License
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
